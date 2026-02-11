@@ -131,3 +131,54 @@ An end-to-end Data Science project covering **EDA, Statistical Analysis, Cluster
 
 ```python
 best_house_price_model.joblib
+
+---
+
+# 🛠 Tech Stack
+
+| Category | Tools & Libraries |
+|----------|------------------|
+| Language | Python |
+| Data Processing | Pandas, NumPy |
+| Visualization | Matplotlib, Seaborn, Plotly |
+| Machine Learning | Scikit-learn |
+| Statistics | SciPy |
+| Dimensionality Reduction | PCA |
+| Clustering | KMeans, Agglomerative, Gaussian Mixture Model (GMM) |
+| Anomaly Detection | LOF, DBSCAN |
+| Model Optimization | RandomizedSearchCV |
+
+---
+
+# 🚀 How To Run
+
+### 1️⃣ Install Dependencies
+
+```bash
+pip install pandas numpy matplotlib seaborn plotly scikit-learn scipy joblib
+
+---
+
+## 📌 Business-Level Takeaways
+
+- 📏 Larger houses significantly increase property valuation  
+- 🌊 Waterfront & premium cities create major price jumps  
+- 🔄 Renovations influence property cluster behavior  
+- 🌲 Tree-based models outperform linear baselines  
+- 📊 Log transformation stabilizes regression performance  
+
+---
+
+## 🏁 Final Thoughts
+
+This project demonstrates:
+
+- 🔍 Advanced Exploratory Data Analysis (EDA)  
+- 📈 Strong statistical analysis capability  
+- 🧠 Clustering & anomaly detection expertise  
+- ⚙ End-to-end machine learning pipeline development  
+- 🎯 Hyperparameter optimization skills  
+- 📊 Model interpretability & business insight extraction  
+
+---
+
